@@ -1,6 +1,6 @@
 ### Hi, I'm Konrad
 
-I'm a frontend developer from Poland.
+I'm a software developer from Poland.
 
 ## Where you can find me
 

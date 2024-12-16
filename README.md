@@ -1,6 +1,6 @@
 # Konrad
 
-**`Software Engineer / Write from scratch hobbist`**
+**`Software Engineer / Write from scratch hobbyist`**
 
 I'm a software engineer from Poland. For more than decade I was gathering experience with JavaScript, frontend frameworks, PHP and Node.js.
 

@@ -1,6 +1,8 @@
-### Hi, I'm Konrad
+# Konrad
 
-I'm a software developer from Poland.
+**`Software Engineer / Write from scratch hobbist`**
+
+I'm a software engineer from Poland. For more than decade I was gathering experience with JavaScript, frontend frameworks, PHP and Node.js.
 
 ## Where you can find me
 

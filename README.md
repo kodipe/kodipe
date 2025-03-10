@@ -1,4 +1,4 @@
-# Konrad
+# kodipe
 
 **`Software Engineer / Write from scratch hobbyist`**
 

@@ -1,6 +1,6 @@
 # kodipe
 
-**`Software Engineer / Write from scratch hobbyist`**
+**`Software Engineer / Write from scratch hobbyist / Random stuff researcher`**
 
 I'm a software engineer from Poland. For more than decade I was gathering experience with JavaScript, frontend frameworks, PHP and Node.js.
 
